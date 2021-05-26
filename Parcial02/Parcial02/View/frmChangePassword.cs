@@ -73,7 +73,7 @@ namespace Parcial02
         {
             //vas a ir a modificar la contra del usuario a la base de datos
             //cuando se haga manda un messageBox diciendo que se hizo
-            //luego cerra la venta y regresa a la ventana original
+            //luego cerra la venta y regresa a la ventana original xD
         }
     }
 }
